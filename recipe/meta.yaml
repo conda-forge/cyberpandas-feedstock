@@ -1,6 +1,6 @@
 {% set name = "cyberpandas" %}
-{% set version = "1.0.0" %}
-{% set sha256 = "883b11426aaa1a9ac78982d567f23c3995c41ccbfcb5fa472bb3c0db97c1b0dd" %}
+{% set version = "1.1.0" %}
+{% set sha256 = "888e455ca75a1075f5e3e62fdb49b504c6d9c48a7f024d87897a76e4e0a59b89" %}
 
 package:
   name: {{ name|lower }}
